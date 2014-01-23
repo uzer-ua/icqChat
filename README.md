@@ -1,8 +1,6 @@
 icqChat
 ========
 
-Private PHP ICQ chat-bot on WebICQPro.
-There is some problems with encodings. Currently not suppported. Last use about 3 years ago.
+Private PHP ICQ chat-bot on WebICQPro.<br>Has some problems with encodings. Currently not suppported. Last use about 3 years ago.
 
-To start, just execute Conference.php with PHP-interpreter in background mode like this:
-`nohup php ./Conference.php > log &`
+To start, configure bot ICQ-account in settings.php, and execute Conference.php with PHP-interpreter in background mode like this:<br>`nohup php ./Conference.php > log &`
